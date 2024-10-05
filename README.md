@@ -1,6 +1,4 @@
-# To create a README for running this dashboard, here’s a template that explains the steps needed to set it up and execute the code.
 
----
 
 # Sales Dashboard Application
 
