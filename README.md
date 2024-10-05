@@ -75,10 +75,4 @@ You’ll also need to install several Python packages to support the dashboard. 
    - **Number of Orders per Month:** This line chart shows the monthly number of orders for the selected products.
    - **Total Revenue per Month:** This chart displays the total revenue earned each month for the selected product types.
 
-## Customizing the Dashboard
 
-If you wish to extend or customize the dashboard, you can modify the Python code in `app.py`. Adjust the graphs, filters, and data processing logic based on your requirements.
-
----
-
-This README provides the basic steps to get the dashboard up and running on your system. Let me know if you need additional details for any specific section!
